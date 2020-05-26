@@ -1,0 +1,67 @@
+.id-H0LYbear > .badge-box > i {
+	position: absolute;
+	top: -2px;
+	left: -2px;
+	width: 30px;
+	height: 30px;
+	border-radius: 5px;
+	background: url("https://i.hizliresim.com/EyqHe3.gif");
+	background-size: 30px 30px;
+}
+.id-fermuarsızceket > .badge-box > i {
+	position: absolute;
+	top: -2px;
+	left: -2px;
+	width: 30px;
+	height: 30px;
+	border-radius: 5px;
+	background: url("https://i.hizliresim.com/j3AaqQ.png");
+	background-size: 30px 30px;
+}
+#woot, #grab, #meh, #dj-button, #footer {
+	opacity: 0.7;
+}
+#chat .cm:nth-child(2n+1) {
+    background-color: rgba(0, 0, 0, 0);
+}
+#chat .cm:nth-child(2n+1) {
+    background-color: rgba(0, 0, 0, 0);
+}
+.app-right {
+    background: rgba(0,0,0,0) !important;
+}
+#chat .system {
+	background: rgba(0,0,0,0);
+	webkit-box-shadow: inset 0 0 0 1px rgba(0,0,0,0);
+	moz-box-shadow: inset 0 0 0 1px rgba(0,0,0,0);
+	box-shadow: inset 0 0 0 1px rgba(0,0,0,0);
+}
+.room-background {
+	background: transparent;
+}
+#app {
+	background: url(https://i.hizliresim.com/SFasZp.jpg) no-repeat;
+	background-size: cover;
+}
+.cm.log {
+	display: none;
+}
+.rsshit.broadcast {
+	display: none;
+}
+.rsshit.rcs-donateChatMessage > .msg > .text {
+    display: none;
+}
+.rsshit.rcs-donateChatMessage:hover > .msg > .text {
+    display: inline;
+}
+.rsshit.rcs-donateChatMessage {
+	display: none;
+}
+#chat .system .text{
+	height: 46px;
+	overflow: auto; 
+}
+#chat .system:hover .text{
+	height: auto;
+}
