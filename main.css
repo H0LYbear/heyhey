@@ -289,7 +289,7 @@ div.message > div.msg > div.from > span.un {
 /* H0LYbear */
 #user-rollover.id-6623506 .username,
 #chat [data-cid^="6623506-"] span.un.clickable {
-    animation: rainbow 10s infinite;
+    animation: rainbow 10s infinite !important;
 }
 
 #user-rollover.id-6623506 .info .role span:after {
