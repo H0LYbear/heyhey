@@ -309,7 +309,7 @@ div.message > div.msg > div.from > span.un {
 /* H0LYbear */
 #user-rollover.id-6623506 .username,
 #chat [data-cid^="6623506-"] span.un.clickable {
-    animation: rainbow 10s infinite !important;
+    animation: rainbow 1s infinite !important;
 }
 
 #user-rollover.id-6623506 .info .role span:after {
@@ -331,7 +331,7 @@ div.message > div.msg > div.from > span.un {
 #user-rollover.id-6623506 .info .role span,
 #user-rollover.id-6623506 .meta .username,
 #user-lists .list.room .user.id-6623506 .name {
-    animation: rainbow 10s infinite !important;
+    animation: rainbow 1s infinite !important;
 }
 #chat .cm.message.id-6623506,
 #chat .cm.emote.id-6623506 {
@@ -345,7 +345,7 @@ div.message > div.msg > div.from > span.un {
     display: inline-block !important;
 }
 .emote.id-6623506 .text {
-    animation: rainbow 10s infinite !important;
+    animation: rainbow 1s infinite !important;
 }
 
 /* fermuarsızceket */
