@@ -1,6 +1,26 @@
 @import url("https://h0lybear.github.io/heyhey/badges.css");
 
 /* main */
+
+/* This removes "Welcome to plug.dj. Version 1.5.6.9836" */
+.cm.log {
+	display: none;
+}
+
+/* this removes the RCS donate message. */
+.rsshit.rcs-donateChatMessage {
+	display: none;
+}
+
+/* This minimizes the plug.dj system alerts, and expands them on hover. (Credit to Wolf) */
+#chat .system .text{
+	height: 46px;
+	overflow: auto; 
+}
+#chat .system:hover .text{
+	height: auto;
+}
+
 /* Icon fix :before */
 div.message > div.msg > div.from > span.un {
     vertical-align: top;
