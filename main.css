@@ -306,32 +306,32 @@ div.message > div.msg > div.from > span.un {
 
 /* Custom */
 
-/* H0LYbear */
+/* ejox */
 #user-rollover.id-6623506 .username,
 #chat [data-cid^="6623506-"] span.un.clickable {
-    animation: rainbow 1s infinite !important;
+    animation: rainbow 10s infinite !important;
 }
 
 #user-rollover.id-6623506 .info .role span:after {
-    content: ' / Robot';
+    content: ' / Palyaco';
 }
-.id-6623506 .msg .from i.icon-chat-cohost,
-#waitlist .list .user[data-uid="6623506"] .meta.is-staff .name .icon-chat-cohost,
-#user-rollover.id-6623506 .info .role i.icon-chat-cohost,
-#user-lists .list.room .user.id-6623506 .icon-chat-cohost {
-    background: url("https://i.hizliresim.com/SkYjcH.png") no-repeat !important;
+.id-6623506 .msg .from i.icon-chat-bouncer,
+#waitlist .list .user[data-uid="6623506"] .meta.is-staff .name .icon-chat-bouncer,
+#user-rollover.id-6623506 .info .role i.icon-chat-bouncer,
+#user-lists .list.room .user.id-6623506 .icon-chat-bouncer {
+    background: url("https://i.hizliresim.com/klgXOk.png") no-repeat !important;
 }
 #user-rollover.id-6623506 .meta .thumb {
     border-color: #3e3e3e !important;
 }
-.id-6623506 .msg .from.cohost .un,
+.id-6623506 .msg .from.bouncer .un,
 .id-6623506 .from .un,
 #chat [data-cid^="6623506-"] span.un.clickable,
-#waitlist .list .user[data-uid="6623506"] .meta.is-staff .name .icon-chat-cohost + span,
+#waitlist .list .user[data-uid="6623506"] .meta.is-staff .name .icon-chat-bouncer + span,
 #user-rollover.id-6623506 .info .role span,
 #user-rollover.id-6623506 .meta .username,
 #user-lists .list.room .user.id-6623506 .name {
-    animation: rainbow 1s infinite !important;
+    animation: rainbow 10s infinite !important;
 }
 #chat .cm.message.id-6623506,
 #chat .cm.emote.id-6623506 {
@@ -345,7 +345,7 @@ div.message > div.msg > div.from > span.un {
     display: inline-block !important;
 }
 .emote.id-6623506 .text {
-    animation: rainbow 1s infinite !important;
+    animation: rainbow 10s infinite !important;
 }
 
 /* fermuarsızceket */
