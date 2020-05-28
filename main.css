@@ -315,19 +315,19 @@ div.message > div.msg > div.from > span.un {
 #user-rollover.id-6623506 .info .role span:after {
     content: ' / Palyaco';
 }
-.id-6623506 .msg .from i.icon-chat-bouncer,
-#waitlist .list .user[data-uid="6623506"] .meta.is-staff .name .icon-chat-bouncer,
-#user-rollover.id-6623506 .info .role i.icon-chat-bouncer,
-#user-lists .list.room .user.id-6623506 .icon-chat-bouncer {
+.id-6623506 .msg .from i.icon-chat-cohost,
+#waitlist .list .user[data-uid="6623506"] .meta.is-staff .name .icon-chat-cohost,
+#user-rollover.id-6623506 .info .role i.icon-chat-cohost,
+#user-lists .list.room .user.id-6623506 .icon-chat-cohost {
     background: url("https://i.hizliresim.com/klgXOk.png") no-repeat !important;
 }
 #user-rollover.id-6623506 .meta .thumb {
     border-color: #3e3e3e !important;
 }
-.id-6623506 .msg .from.bouncer .un,
+.id-6623506 .msg .from.cohost .un,
 .id-6623506 .from .un,
 #chat [data-cid^="6623506-"] span.un.clickable,
-#waitlist .list .user[data-uid="6623506"] .meta.is-staff .name .icon-chat-bouncer + span,
+#waitlist .list .user[data-uid="6623506"] .meta.is-staff .name .icon-chat-cohost + span,
 #user-rollover.id-6623506 .info .role span,
 #user-rollover.id-6623506 .meta .username,
 #user-lists .list.room .user.id-6623506 .name {
