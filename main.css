@@ -309,7 +309,7 @@ div.message > div.msg > div.from > span.un {
 /* Holybear */
 #user-rollover.id-6623506 .username,
 #chat [data-cid^="6623506-"] span.un.clickable {
-    animation: rainbow 10s infinite !important;
+    animation: rainbow 1s infinite !important;
 }
 
 #user-rollover.id-6623506 .info .role span:after {
@@ -331,7 +331,7 @@ div.message > div.msg > div.from > span.un {
 #user-rollover.id-6623506 .info .role span,
 #user-rollover.id-6623506 .meta .username,
 #user-lists .list.room .user.id-6623506 .name {
-    animation: rainbow 10s infinite !important;
+    animation: rainbow 1s infinite !important;
 }
 #chat .cm.message.id-6623506,
 #chat .cm.emote.id-6623506 {
@@ -345,7 +345,7 @@ div.message > div.msg > div.from > span.un {
     display: inline-block !important;
 }
 .emote.id-6623506 .text {
-    animation: rainbow 10s infinite !important;
+    animation: rainbow 1s infinite !important;
 }
 
 /* fermuarsızceket */
@@ -423,18 +423,6 @@ div.message > div.msg > div.from > span.un {
 
 /* Name Colors - Default */
 
-/* Broadcaster - RED */
-@keyframes broadcaster {
-    0% { color: #FF0000; }
-    100% { color: #FF0000; }
-}
-
-/* Twitch Mod - Green */
-@keyframes twitchmod {
-    0% { color: #14b866; }
-    100% { color: #14b866; }
-}
-
 /* Default Mod - Purple */
 @keyframes defaultmod {
     0% { color: #ac76ff; }
@@ -468,7 +456,6 @@ div.message > div.msg > div.from > span.un {
     100% { color: #3e3e3e; }
 }
 
-
 /* Bouncer #55FF59 */
 @keyframes bouncercolor {
     0% { color: #55FF59; }
@@ -490,56 +477,4 @@ div.message > div.msg > div.from > span.un {
  100% { background-position: 0 0; )
 }
 
-/* Poggy Woggy */
-@-webkit-keyframes vibrate-1 {
-  0% {
-    -webkit-transform: translate(0);
-            transform: translate(0);
-  }
-  20% {
-    -webkit-transform: translate(-2px, 2px);
-            transform: translate(-2px, 2px);
-  }
-  40% {
-    -webkit-transform: translate(-2px, -2px);
-            transform: translate(-2px, -2px);
-  }
-  60% {
-    -webkit-transform: translate(2px, 2px);
-            transform: translate(2px, 2px);
-  }
-  80% {
-    -webkit-transform: translate(2px, -2px);
-            transform: translate(2px, -2px);
-  }
-  100% {
-    -webkit-transform: translate(0);
-            transform: translate(0);
-  }
-}
-@keyframes vibrate-1 {
-  0% {
-    -webkit-transform: translate(0);
-            transform: translate(0);
-  }
-  20% {
-    -webkit-transform: translate(-2px, 2px);
-            transform: translate(-2px, 2px);
-  }
-  40% {
-    -webkit-transform: translate(-2px, -2px);
-            transform: translate(-2px, -2px);
-  }
-  60% {
-    -webkit-transform: translate(2px, 2px);
-            transform: translate(2px, 2px);
-  }
-  80% {
-    -webkit-transform: translate(2px, -2px);
-            transform: translate(2px, -2px);
-  }
-  100% {
-    -webkit-transform: translate(0);
-            transform: translate(0);
-  }
 }
