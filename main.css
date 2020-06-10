@@ -87,7 +87,12 @@ div.message > div.msg > div.from > span.un {
     animation: fadein 1s;
 }
 
-#chat .emote,
+#chat .emote .text {
+    font-style: italic;
+    font-weight: bold;
+    color: #ac76ff;
+}
+
 #chat .mention {
     font-weight: 800;
 }
