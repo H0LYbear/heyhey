@@ -88,7 +88,10 @@ div.message > div.msg > div.from > span.un {
 }
 
 #chat .emote,
-#chat .mention,
+#chat .mention {
+    font-weight: 700;
+}
+
 #chat .message,
 #chat .moderation,
 #chat .skip,
